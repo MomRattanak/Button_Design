@@ -16,7 +16,7 @@ namespace CustomControls.RJControls
         //Fields
         private Color onBackColor = Color.MediumSlateBlue;
         private Color onToggleColor = Color.WhiteSmoke;
-        private Color offBackColor = Color.Gray;
+        private Color offBackColor = Color.Red;
         private Color offToggleColor = Color.Gainsboro;
         private bool solidStyle = true;
 
